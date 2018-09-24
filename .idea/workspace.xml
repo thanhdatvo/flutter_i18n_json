@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ac9b06a1-9837-4391-8b45-cfc8d864c141" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/lib/generated/i18n.dart" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings_en.arb" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -20,8 +22,8 @@
       <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="35" />
+            <state relative-caret-position="224">
+              <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -42,7 +44,7 @@
       <file leaf-file-name="localizations.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/localizations.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="30">
               <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -91,20 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/src/widgets/app.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="initialize_i18n.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/initialize_i18n.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="225">
               <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
@@ -202,26 +194,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="flutter_i18n_json" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter_i18n_json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_i18n_json" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_i18n_json" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_i18n_json" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_i18n_json" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="i18n" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flutter_i18n_json" type="b2602c69:ProjectViewProjectNode" />
@@ -260,7 +242,6 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,6 +249,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -398,13 +380,13 @@
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.49536425" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32806325" sideWeight="0.4794702" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32806325" sideWeight="0.4794702" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24900663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24900663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -429,14 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/src/widgets/localizations.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="119" column="13" lean-forward="false" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/i18n/en.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -457,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +794,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/initialize_i18n.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="225">
           <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
@@ -835,7 +804,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/localizations.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="30">
           <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -845,11 +814,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="35" />
+        <state relative-caret-position="224">
+          <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generated/i18n.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
