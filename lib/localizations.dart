@@ -19,7 +19,7 @@ class MyLocalizations {
 
   greetTo(name) {
     return localizedValues[locale.languageCode]['greetTo']
-        .replaceAll('{name}', name);
+        .replaceAll('{{name}}', name);
   }
 }
 

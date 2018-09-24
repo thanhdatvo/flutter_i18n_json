@@ -1,4 +1,4 @@
 {
   "hello": "Hello!",
-  "greetTo": "Nice to meet you, {name}!"
+  "greetTo": "Nice to meet you, {{name}}!"
 }
